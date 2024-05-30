@@ -1,4 +1,4 @@
-﻿namespace Datavere.Samples.VirtualData.Plugins
+﻿namespace Dataverse.Samples.VirtualData.Plugins
 {
 
     using Microsoft.Xrm.Sdk;
