@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>1</isdefault>
+    <savedqueryid>{bc286ecd-0068-420f-a78c-a0f81434030b}</savedqueryid>
+    <layoutxml>
+      <grid name="np_virtualdatastarterdatasources" jump="np_name" select="1" icon="1" preview="1">
+        <row name="np_virtualdatastarterdatasource" id="np_virtualdatastarterdatasourceid">
+          <cell name="np_name" width="300" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>2</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="np_virtualdatastarterdatasource">
+          <attribute name="np_virtualdatastarterdatasourceid" />
+          <attribute name="np_name" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Virtual Data Starter Data Source Associated View" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

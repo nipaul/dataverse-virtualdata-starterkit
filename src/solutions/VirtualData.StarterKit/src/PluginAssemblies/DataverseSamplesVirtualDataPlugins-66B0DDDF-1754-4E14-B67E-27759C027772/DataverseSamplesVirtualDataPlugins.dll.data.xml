@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginAssemblyId="66b0dddf-1754-4e14-b67e-27759c027772" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0.0.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/DataverseSamplesVirtualDataPlugins-66B0DDDF-1754-4E14-B67E-27759C027772/DataverseSamplesVirtualDataPlugins.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="Dataverse.Samples.VirtualData.Plugins.CreatePlugin, Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginTypeId="afca673a-f406-4374-b54e-f7a0d959f00c" Name="Dataverse.Samples.VirtualData.Plugins.CreatePlugin">
+      <FriendlyName>1ebe556b-64a5-41e4-8a66-444dac9db240</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Dataverse.Samples.VirtualData.Plugins.DeletePlugin, Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginTypeId="241ddaca-0a66-4ee1-a9e1-2c02b548e127" Name="Dataverse.Samples.VirtualData.Plugins.DeletePlugin">
+      <FriendlyName>d2dafa25-beee-4fe1-8759-aee776a1e22a</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Dataverse.Samples.VirtualData.Plugins.RetrieveMultiplePlugin, Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginTypeId="db7e3e8a-4578-4dec-8f3f-80894224b890" Name="Dataverse.Samples.VirtualData.Plugins.RetrieveMultiplePlugin">
+      <FriendlyName>a4d9d7da-6aeb-404c-b8e7-cc5541de4252</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Dataverse.Samples.VirtualData.Plugins.RetrievePlugin, Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginTypeId="c846dcd8-f36a-4998-96d9-46abdbf0877d" Name="Dataverse.Samples.VirtualData.Plugins.RetrievePlugin">
+      <FriendlyName>06d090a5-cc6c-4d1f-aa6b-9788c475e3be</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Dataverse.Samples.VirtualData.Plugins.UpdatePlugin, Dataverse.Samples.VirtualData.Plugins, Version=1.0.2024.529, Culture=neutral, PublicKeyToken=f6ef34b566bfba59" PluginTypeId="f3191875-4196-4ed6-a201-6f09ee20d3e4" Name="Dataverse.Samples.VirtualData.Plugins.UpdatePlugin">
+      <FriendlyName>d6f4e612-6261-44f5-9877-bef74eeb58b0</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>
