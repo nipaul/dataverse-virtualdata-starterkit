@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityDataProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityDataProviderId>{2323ef2c-dc1e-ef11-840a-000d3a351b91}</EntityDataProviderId>
+  <Name>Virtual Data Starter Data Provider</Name>
+  <DataSourceLogicalName>np_virtualdatastarterdatasource</DataSourceLogicalName>
+  <IsCustomizable>1</IsCustomizable>
+  <RetrievePluginTypeId>c846dcd8-f36a-4998-96d9-46abdbf0877d</RetrievePluginTypeId>
+  <RetrieveMultiplePluginTypeId>db7e3e8a-4578-4dec-8f3f-80894224b890</RetrieveMultiplePluginTypeId>
+  <CreatePluginTypeId>afca673a-f406-4374-b54e-f7a0d959f00c</CreatePluginTypeId>
+  <UpdatePluginTypeId>f3191875-4196-4ed6-a201-6f09ee20d3e4</UpdatePluginTypeId>
+  <DeletePluginTypeId>241ddaca-0a66-4ee1-a9e1-2c02b548e127</DeletePluginTypeId>
+</EntityDataProvider>
